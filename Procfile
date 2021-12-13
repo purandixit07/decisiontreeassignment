@@ -1,0 +1,1 @@
+web: gunicorn app:app_decision_tree_web
